@@ -1,0 +1,1 @@
+pyinstaller --onefile main.py -n AardvarkWrite --add-data "aardvark.dll;."
